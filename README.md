@@ -3,7 +3,7 @@
 
 OOP basics: inheritance, encapsulation, polymorphism.
 
-**Technical task:**
+**Task:**
 
 1. Repeat writing classes from the lesson.
 2. Create a document class with a date instead of a signature. And a separate class with date and signature. Redefine the print() method for all of them, by analogy with the example from the lesson. Call the print() method on all of them.
